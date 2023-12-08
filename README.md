@@ -50,6 +50,6 @@ furnished to do so, subject to the following conditions:
 
 ## Contact
 
-Have questions? Reach out to us at [adamchafiki@gmail.com](mailto:adamchafiki@gmail.com).
+Have questions? Reach out to us at [adamchafiki3@gmail.com](mailto:adamchafiki3@gmail.com).
 
 Happy Blogging! 🚀
