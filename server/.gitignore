@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+dist/
+
+# Dependency directories
+/client/node_modules/
+/server/node_modules/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
