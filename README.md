@@ -25,7 +25,7 @@ MERN Blog is a full-stack blogging platform built with the MERN stack (MongoDB, 
    - Obtain your API key, API secret, and cloud name.
    - Open the server's `.env` file and add your Cloudinary credentials.
 
-6. Run the application: `npm start` in both the `client` and `server` directories.
+6. Run the application: `npm run dev` in the `client` and `npm start` `server` directories.
 
 ## Contributing
 
